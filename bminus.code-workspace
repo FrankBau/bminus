@@ -6,7 +6,7 @@
 	],
 	"settings": {
 		"files.exclude": {
-            "bin": true, 
+            //"bin": true, 
             "**/.history": true
         }
 	}
